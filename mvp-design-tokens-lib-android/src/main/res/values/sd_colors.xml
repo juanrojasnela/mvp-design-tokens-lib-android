@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+  Do not edit directly
+  Generated on Fri, 09 Sep 2022 13:46:28 GMT
+-->
+<resources>
+  <color name="color_base_gray_light">#ffcccccc</color>
+  <color name="color_base_gray_medium">#ff999999</color>
+  <color name="color_base_gray_dark">#ff111111</color>
+  <color name="color_base_red">#ffff0000</color>
+  <color name="color_base_green">#ff00ff00</color>
+  <color name="color_font_base">#ffff0000</color>
+  <color name="color_font_secondary">#ff00ff00</color>
+  <color name="color_font_tertiary">#ffcccccc</color>
+  <color name="color_ui_dark_blue_50">#ff04337a</color>
+  <color name="color_ui_dark_blue_100">#ff04337a</color>
+  <color name="color_ui_dark_blue_300">#ff04337a</color>
+  <color name="color_ui_dark_blue_500">#ff04337a</color>
+  <color name="color_ui_dark_blue_700">#ff04337a</color>
+  <color name="color_ui_grey_light_50">#ffeaebec</color>
+  <color name="color_ui_grey_light_100">#ffdddddd</color>
+  <color name="color_ui_grey_light_300">#ffbcbcbe</color>
+  <color name="color_ui_grey_light_500">#ff959595</color>
+  <color name="color_ui_grey_light_700">#ff959595</color>
+  <color name="color_ui_grey_50">#ff767676</color>
+  <color name="color_ui_grey_100">#ff767676</color>
+  <color name="color_ui_grey_300">#ff767676</color>
+  <color name="color_ui_grey_500">#ff767676</color>
+  <color name="color_ui_grey_700">#ff545454</color>
+  <color name="color_ui_grey_dark_50">#ff333333</color>
+  <color name="color_ui_grey_dark_100">#ff333333</color>
+  <color name="color_ui_grey_dark_300">#ff333333</color>
+  <color name="color_ui_grey_dark_500">#ff333333</color>
+  <color name="color_ui_grey_dark_700">#ff1d1d1d</color>
+  <color name="color_ui_green_50">#4d00ff7f</color>
+  <color name="color_ui_green_100">#4d00ff7f</color>
+  <color name="color_ui_green_300">#ff25c09b</color>
+  <color name="color_ui_green_500">#ff0f8670</color>
+  <color name="color_ui_green_700">#ff17786c</color>
+  <color name="color_ui_red_50">#4dff0000</color>
+  <color name="color_ui_red_100">#4dff0000</color>
+  <color name="color_ui_red_300">#ffff6b6b</color>
+  <color name="color_ui_red_500">#ffdd3636</color>
+  <color name="color_ui_red_700">#ffc32113</color>
+  <color name="color_ui_yellow_50">#ffffc974</color>
+  <color name="color_ui_yellow_100">#ffffc974</color>
+  <color name="color_ui_yellow_300">#ffffc974</color>
+  <color name="color_ui_yellow_500">#ffffc974</color>
+  <color name="color_ui_yellow_700">#ffffc974</color>
+  <color name="color_ui_core_blue_50">#ffe7f1ff</color>
+  <color name="color_ui_core_blue_100">#ffe7f1ff</color>
+  <color name="color_ui_core_blue_300">#ff72acff</color>
+  <color name="color_ui_core_blue_500">#ff106ff3</color>
+  <color name="color_ui_core_blue_700">#ff0052c4</color>
+  <color name="color_ui_grey_extra_light_50">#fff8f8f8</color>
+  <color name="color_ui_grey_extra_light_100">#fff8f8f8</color>
+  <color name="color_ui_grey_extra_light_300">#fff8f8f8</color>
+  <color name="color_ui_grey_extra_light_500">#fff8f8f8</color>
+  <color name="color_ui_grey_extra_light_700">#fff8f8f8</color>
+  <color name="color_ui_white_50">#ffffffff</color>
+  <color name="color_ui_white_100">#ffffffff</color>
+  <color name="color_ui_white_300">#ffffffff</color>
+  <color name="color_ui_white_500">#ffffffff</color>
+  <color name="color_ui_white_700">#ffffffff</color>
+  
+</resources>

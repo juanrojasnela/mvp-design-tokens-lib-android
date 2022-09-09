@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+  Do not edit directly
+  Generated on Fri, 09 Sep 2022 13:46:28 GMT
+-->
+<resources>
+  <color name="components_badge_ui_color_grey_dark_color">#ff333333</color>
+  <color name="components_badge_ui_color_grey_color">#ff767676</color>
+  <color name="components_badge_ui_color_core_blue_color">#ff0052c4</color>
+  <color name="components_badge_ui_color_red_color">#ffc32113</color>
+  <color name="components_button_status_color_danger_color">#ffff0000</color>
+  
+</resources>
